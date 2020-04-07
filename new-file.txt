@@ -1,1 +1,2 @@
 test
+trail for adding a new line
